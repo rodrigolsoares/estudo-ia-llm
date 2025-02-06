@@ -1,1 +1,1 @@
-# estudo-ia-llm
+# Estudo soluções modernas de IA Generativa
