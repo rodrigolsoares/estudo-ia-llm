@@ -26,7 +26,7 @@
 
 **Sugestões para o desenvolvimento um sistema com LangChain:**
 
- - LangSmith para monitorar seu pipeline de IA.
- - Tavily se quiser buscar informações em tempo real.
- - Hugging Face para encontrar modelos e datasets relevantes.
- - Ollama se quiser rodar um modelo localmente sem custos de nuvem.
+ - **LangSmith** para monitorar seu pipeline de IA.
+ - **Tavily** buscar informações em tempo real.
+ - **Hugging Face** prepositórios de modelos e datasets relevantes.
+ - **Ollama** rodar um modelo localmente sem custos de nuvem.
